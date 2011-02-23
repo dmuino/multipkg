@@ -1,7 +1,8 @@
-#!/usr/local/bin/perl -w
+#!/usr/bin/perl
 # Copyright (c) 2011 Yahoo! Inc. All rights reserved.
 
 use strict;
+use warnings 'all';
 
 use constant MULTIPKG_VERSION => '__MULTIPKG_BUILD_VERSION__';
 

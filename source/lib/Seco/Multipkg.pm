@@ -1,6 +1,7 @@
 package Seco::Multipkg;
 # Copyright (c) 2011 Yahoo! Inc. All rights reserved.
 use strict;
+use warnings;
 use constant MULTIPKG_VERSION => '__MULTIPKG_BUILD_VERSION__';
 use File::Spec;
 use File::Basename;
